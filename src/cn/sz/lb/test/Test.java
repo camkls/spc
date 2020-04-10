@@ -16,7 +16,8 @@ public class Test {
     }
     public void show2(){
         String str = "";
-        String s = new String();
+        String s = new String("55f");
+
     }
     public void show3(){
 
